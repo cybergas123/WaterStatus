@@ -8,7 +8,7 @@ int main() {
 	cout << "Please input temperature in celsius: ";
 
 	cin >> temperartureInput;
-	  
+	   
 	cout << "\n";
 
 	if (temperartureInput <= 0 )
